@@ -24,7 +24,7 @@ html {
     background-color: bisque;
 }
 
-.card {
+.recipe {
     background-color: aliceblue;
     display: flex;
     flex-direction: column;
@@ -35,6 +35,6 @@ html {
     font-family: "Figtree", sans-serif;
 }
 
-.card_img {
+.recipe_preview {
     width: auto;
 }
