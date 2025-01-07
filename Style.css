@@ -29,7 +29,6 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
     width: min-content;
     height: auto;
     margin: auto;
@@ -39,4 +38,11 @@ body {
 
 .recipe_preview {
     width: 100%;
+}
+
+.recipe__nutrition-table {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: normal;
 }
