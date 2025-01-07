@@ -20,8 +20,8 @@
     padding: 0;
 }
 
-html {
-    background-color: bisque;
+body {
+    background-color: var(--Stone-100);
 }
 
 .recipe {
@@ -30,11 +30,13 @@ html {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: max-content;
+    width: min-content;
+    height: auto;
     margin: auto;
     font-family: "Figtree", sans-serif;
+    padding: 2rem;
 }
 
 .recipe_preview {
-    width: auto;
+    width: 100%;
 }
