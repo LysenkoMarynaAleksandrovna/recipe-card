@@ -107,7 +107,7 @@ section:last-child {
     color: var(--Rose-800);
     font-size: 1.25rem;
     padding-bottom: 0.8rem;
-    margin: 0;
+    margin-bottom: 0;
 }
 
 li {
