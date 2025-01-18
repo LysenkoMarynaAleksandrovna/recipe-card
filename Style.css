@@ -140,6 +140,7 @@ section:last-child {
     color: var(--Rose-800);
     font-size: 1.25rem;
     padding-bottom: 0.8rem;
+    margin: 0;
 }
 
 li {
@@ -271,6 +272,7 @@ strong,
 
     .recipe__preparation-time-title {
         padding-bottom: 0.6rem;
+        
     }
 
     .recipe__nutrition-table tr {
